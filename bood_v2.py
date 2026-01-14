@@ -32,7 +32,7 @@ def parse_input(user_input_str):
         
     return clean_list
 
-lijst = input('Typ hier je boodschappenlijst in de format (5 komkommers, 1 cola, aardbeien, ...) svp: ')
+lijst = st.text_input('Typ hier je boodschappenlijst in de format (5 komkommers, 1 cola, aardbeien, ...) svp: ')
 parsed_list =parse_input(lijst)
 print(parsed_list)
 boodschappen = lijst.split(', ')
