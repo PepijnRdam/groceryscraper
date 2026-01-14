@@ -115,5 +115,4 @@ for item in normalized_list:
         print(f"Aantal: {quantity} x €{result['prijs']:.2f} = €{line_total:.2f}")
         print("-" * 20)
 
-
 print(f"GRAND TOTAL: €{total_basket_price:.2f}")
