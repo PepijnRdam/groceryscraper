@@ -2,6 +2,7 @@
 from bs4 import BeautifulSoup
 import re 
 import requests # let's load the requests library
+import streamlit as st
 def parse_input(user_input_str):
     """
     Splits string into items, then splits quantity and name.
