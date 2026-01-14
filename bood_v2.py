@@ -3,6 +3,8 @@ from bs4 import BeautifulSoup
 import re 
 import requests # let's load the requests library
 import streamlit as st
+
+st.title('Economisch hoogstandje')
 def parse_input(user_input_str):
     """
     Splits string into items, then splits quantity and name.
@@ -80,6 +82,7 @@ def download_data(url):
     #hoeveelheid = soup.find(class_ = 'product-card-header_unitInfo__ddXw6').get_text()
     prijs = float(prijs)
     print(f'Prijs van {product} is: {prijs}. De hoeveelheid is: {hoeveelheid}')
+    st.write(f'Prijs van {product} is: {prijs}. De hoeveelheid is: {hoeveelheid}')
     print(product)
     return {
         "naam": product,
