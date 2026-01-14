@@ -1,7 +1,4 @@
-import requests
-import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
+
 from bs4 import BeautifulSoup
 import re 
 import requests # let's load the requests library
@@ -117,5 +114,6 @@ for item in normalized_list:
         print(f"In winkel: {result['naam']}")
         print(f"Aantal: {quantity} x €{result['prijs']:.2f} = €{line_total:.2f}")
         print("-" * 20)
+
 
 print(f"GRAND TOTAL: €{total_basket_price:.2f}")
