@@ -89,15 +89,10 @@ def download_data(url):
         "prijs": prijs,
         "hoeveelheid": hoeveelheid
     }
-    #print(prize)
+    
 
 
-#url = 'https://www.ah.nl/producten/product/wi4102/ah-sperziebonen'
 
-#urls = ['wi4102','wi230848', 'wi130273', 'wi210145']
-
-#for url in normalized_list:
-    #download_data(url)
 
 total_basket_price = 0.0
 
@@ -111,7 +106,7 @@ for item in normalized_list:
     if result:
         # Calculate totals using the 'price' key from the returned dictionary
         line_total = result['prijs'] * quantity
-        print(line_total)
+        st.write(f'Totaal prijs van {result['naam']} = {line_total}')
         total_basket_price += line_total
         
         # Now you can print all the "multiple things" clearly
@@ -119,4 +114,4 @@ for item in normalized_list:
         print(f"Aantal: {quantity} x €{result['prijs']:.2f} = €{line_total:.2f}")
         print("-" * 20)
 
-print(f"GRAND TOTAL: €{total_basket_price:.2f}")
+st.write(f"GRAND TOTAL: €{total_basket_price:.2f}")
