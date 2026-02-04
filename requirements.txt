@@ -3,4 +3,3 @@ beautifulsoup4
 streamlit
 lxml
 thefuzz
-os
