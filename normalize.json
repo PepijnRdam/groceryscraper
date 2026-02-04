@@ -1,0 +1,257 @@
+{
+    
+    "kip_300": [
+    "kip", "kipfilet", "kippenfilet", "kippen borst", "kippenborst",
+    "kip dij", "kipdij", "kipdijfilet", "bio kip"
+    ],
+
+    "gehakt_500": [
+    "gehakt", "rundergehakt", "half om half", "half-om-half gehakt",
+    "mager rundergehakt", "gehakt rund"
+    ],
+
+    "hamburger": [
+    "hamburger", "hamburgers", "runderhamburger",
+    "burger", "burgers", "bio hamburger"
+    ],
+
+    "biefstuk": [
+    "biefstuk", "runderbiefstuk", "entrecote", "ossenhaas"
+    ],
+
+    "varkenshaas": [
+    "varkenshaas", "varkenshaasje"
+    ],
+
+    "speklap": [
+    "speklap", "speklappen", "varkensspek"
+    ],
+
+    "worst": [
+    "worst", "saucijs", "saucijzen", "braadworst"
+    ],
+
+    "eieren_10": [
+    "ei", "eieren", "doos eieren", "dozijn eieren",
+    "scharreleieren", "vrije uitloop eieren", "bio eieren"
+    ],
+
+    "melk": [
+    "melk", "volle melk", "halfvolle melk", "magere melk", "bio melk"
+    ],
+
+    "kaas": [
+    "kaas", "belegen kaas", "jong belegen kaas", "oude kaas",
+    "plakken kaas", "geraspte kaas"
+    ],
+
+    "zalm": [
+    "zalm", "zalmfilet", "verse zalm", "bio zalm"
+    ],
+
+    "tonijn": [
+    "tonijn", "tonijnfilet", "tonijn steak"
+    ],
+
+    "kabeljauw": [
+    "kabeljauw", "kabeljauwfilet", "witvis"
+    ],
+
+    "garnalen": [
+    "garnalen", "shrimp", "prawns"
+    ],
+
+    
+    
+    "melk_1l": [
+    "melk", "milk", "melk 1l", "1 liter melk",
+    "volle melk", "halfvolle melk", "magere melk", "bio melk"
+  ],
+
+  "karnemelk_1l": [
+    "karnemelk", "karnemelk 1l", "buttermilk"
+  ],
+
+  "chocolademelk_1l": [
+    "chocolademelk", "chocomel", "chocolade melk"
+  ],
+
+  "kaas_jong": [
+    "jonge kaas", "jong belegen kaas",
+    "goudse kaas", "kaas", "kaas plakken",
+    "plakken kaas", "bio kaas"
+  ],
+
+  "kaas_oud": [
+    "oude kaas", "extra belegen kaas", "oude boerenkaas"
+  ],
+
+  "roomkaas": [
+    "roomkaas", "cream cheese", "philadelphia"
+  ],
+
+  "boter": [
+    "boter", "roomboter", "ongezouten boter", "gezouten boter"
+  ],
+
+  "margarine": [
+    "margarine", "halvarine"
+  ],
+
+  "yoghurt_1l": [
+    "yoghurt", "naturel yoghurt",
+    "volle yoghurt", "halfvolle yoghurt",
+    "magere yoghurt", "yoghurt naturel", "bio yoghurt"
+  ],
+
+  "griekse_yoghurt_500": [
+    "griekse yoghurt", "griekse stijl yoghurt",
+    "griekse style yoghurt", "turkse yoghurt",
+    "volle griekse yoghurt"
+  ],
+
+  "kwark_500": [
+    "kwark", "magere kwark",
+    "volle kwark", "kwark naturel",
+    "protein kwark", "high protein kwark"
+  ],
+
+  "vla_1l": [
+    "vla", "vanille vla", "chocolade vla"
+  ],
+
+  "pudding": [
+    "pudding", "chocolade pudding", "vanille pudding"
+  ],
+
+  "slagroom_250": [
+    "slagroom", "verse slagroom", "kloproom"
+  ],
+
+  "kookroom_250": [
+    "kookroom", "light kookroom", "room om te koken"
+  ],
+
+  "creme_fraiche": [
+    "creme fraiche", "crème fraîche", "zure room"
+  ],
+    
+    
+    "paprika_red": ["rode paprika", "paprika rood", "paprika", "bio paprika", "paprika bio"],
+    "paprika_green": ["groene paprika", "paprika groen"],
+    "paprika_yellow": ["gele paprika", "paprika geel"],
+
+    "banaan_tros": ["banaan", "bananen", "tros bananen", "bio banaan"],
+
+    "appel_rood": ["appel", "rode appel", "appels", "elstar", "jonagold"],
+    "appel_groen": ["groene appel", "granny smith"],
+    "peer": ["peer", "peren", "conference peer"],
+
+    "sinaasappel": ["sinaasappel", "sinaasappels", "navel sinaasappel"],
+    "mandarijn": ["mandarijn", "mandarijnen", "clementine"],
+    "citroen": ["citroen", "citroenen", "bio citroen"],
+    "limoen": ["limoen", "limoenen"],
+
+    "komkommer_st": ["komkommer", "komkommers"],
+    "tomaat_st": ["tomaat", "tomaten"],
+    "tomaat_cherry": ["cherrytomaat", "cherrytomaten", "snoeptomaat"],
+
+    "ui_geel_1kg": ["ui", "uien", "gele ui", "gele uien", "net uien"],
+    "ui_rood": ["rode ui", "rode uien"],
+    "knoflook": ["knoflook", "knoflookbol"],
+
+    "wortel": ["wortel", "wortels", "winterpeen"],
+    "wortel_bos": ["bospeen", "bos wortelen"],
+
+    "aardappel": ["aardappel", "aardappelen"],
+    "zoete_aardappel": ["zoete aardappel", "zoete aardappelen"],
+
+    "courgette": ["courgette", "courgettes"],
+    "aubergine": ["aubergine", "aubergines"],
+
+    "broccoli": ["broccoli", "broccoliroos"],
+    "bloemkool": ["bloemkool"],
+    "spinazie": ["spinazie", "verse spinazie"],
+    "sla_ijsberg": ["ijsbergsla", "ijsberg sla"],
+    "sla_romaine": ["romaine sla", "bindsla"],
+
+    "champignon": ["champignon", "champignons"],
+    "paddenstoel_mix": ["paddenstoelen", "paddenstoelenmix"],
+
+    "avocado": ["avocado", "avocado's", "bio avocado"],
+    "kiwi": ["kiwi", "kiwi's"],
+    "druif_wit": ["witte druiven", "druiven wit"],
+    "druif_rood": ["rode druiven", "druiven rood"],
+    
+    
+    "brood_bruin": ["bruin brood", "volkoren brood", "heel brood", "gesneden brood"],
+    "rijst_1kg": ["rijst", "basmati", "zilvervliesrijst", "toverrijst"],
+    "noodles": [
+    "noodles", "mie", "mie noodles",
+    "eiernoedels", "egg noodles", "aziatische noodles"
+  ],
+
+  "instant_noodles": [
+    "instant noodles", "ramen", "cup noodles",
+    "soepnoedels", "noedels cup"
+  ],
+
+  "pasta_spaghetti": [
+    "spaghetti", "spagetti", "pasta spaghetti"
+  ],
+
+  "pasta_penne": [
+    "penne", "pasta penne", "penne rigate"
+  ],
+
+  "pasta_fusilli": [
+    "fusilli", "pasta fusilli", "spiraal pasta"
+  ],
+
+  "pasta_macaroni": [
+    "macaroni", "elleboog macaroni"
+  ],
+
+  "pasta_lasagne": [
+    "lasagne", "lasagnebladen", "lasagna sheets"
+  ],
+
+  "pasta_volkoren": [
+    "volkoren pasta", "volkoren spaghetti", "volkoren penne"
+  ],
+
+  "tortilla_wraps": [
+    "tortilla", "tortillas", "wraps",
+    "wrap", "tortilla wraps", "bloem tortilla"
+  ],
+
+  "tortilla_wraps_volkoren": [
+    "volkoren wraps", "volkoren tortilla", "bruine wraps"
+  ],
+
+  "taco_schelpen": [
+    "taco schelpen", "taco shells", "tacoschelpen",
+    "hard shell tacos"
+  ],
+
+  "taco_wraps": [
+    "taco wraps", "soft tacos", "zachte tacos"
+  ],
+
+  "couscous": [
+    "couscous", "parelcouscous", "israeli couscous"
+  ],
+
+  "bulgur": [
+    "bulgur", "bulgur tarwe"
+  ],
+
+  "quinoa": [
+    "quinoa", "witte quinoa", "rode quinoa"
+  ],
+
+  "noedels_rijst": [
+    "rijstnoedels", "rice noodles", "pho noodles"
+  ],
+    "bonus_voorbeeld": ["bonus"]
+}
